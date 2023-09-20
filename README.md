@@ -1,4 +1,4 @@
-# Flutter E-commerce Mobile App Templates
+# Flutter E-commerce Mobile App Template
 
 ## [Watch it on YouTube](https://youtu.be/XBKzpTz65Io)
 
